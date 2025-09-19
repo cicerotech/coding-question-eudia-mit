@@ -17,6 +17,8 @@ Build a **Legal Transcript QA System** for deposition review. Your system must:
 - If you choose to explore model-based approaches, some **commonly accessible open-source models** are available on HuggingFace, etc. 
 - You may also use closed-source models or APIs with minimal costs, but please note that any usage fees are **your responsibility** — we will not be reimbursing paid API usage.
 
+Submit your solution here: https://forms.gle/ibPWz6zbw1s7pmuT9
+
 ## Deliverables
 
 You are expected to submit **two main items**:
