@@ -2,6 +2,8 @@
 
 ## Overview
 
+Submit your solution by September 23, 2025 11 PM EST: https://forms.gle/ibPWz6zbw1s7pmuT9
+
 Build a **Legal Transcript QA System** for deposition review. Your system must:  
 
 - Parse a raw transcript (`transcript.txt`) into structured segments.  
@@ -16,8 +18,6 @@ Build a **Legal Transcript QA System** for deposition review. Your system must:
 - You are **not required** to use any specific model or API.  
 - If you choose to explore model-based approaches, some **commonly accessible open-source models** are available on HuggingFace, etc. 
 - You may also use closed-source models or APIs with minimal costs, but please note that any usage fees are **your responsibility** — we will not be reimbursing paid API usage.
-
-Submit your solution here: https://forms.gle/ibPWz6zbw1s7pmuT9
 
 ## Deliverables
 
